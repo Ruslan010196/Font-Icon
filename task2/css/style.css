@@ -1,0 +1,95 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-style: italic;
+}
+
+
+
+.menu{
+    width: 800px;
+    height: 400px;
+    background-color: rgb(52, 111, 163);
+    margin: auto;
+    margin-top: 100px;
+    border-radius: 10px;
+    box-shadow:  2px 2px 5px 5px;
+
+}
+.menu h1{
+    margin-top: -350px;
+    margin-left: 450px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-decoration-line: underline;
+    color: rgba(23, 21, 21, 0.707);
+    text-shadow: 1px 1px  rgba(23, 21, 21, 0.523);
+}
+.menu .contact .email{
+    display: inline-block;
+    list-style-type: none;
+    margin-left: 350px;
+    margin-top: 40px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: rgba(23, 21, 21, 0.707);
+}
+.menu .contact .phone{
+    display: inline-block;
+    list-style-type: none;
+    margin-left: 70px;
+    margin-top: 40px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: rgba(23, 21, 21, 0.707);
+}
+
+
+.blue{
+    background-color: rgba(245, 245, 245, 0.537);
+    width: 300px;
+    height: 400px;
+    border-radius: 10px 0px 0px 10px;
+    
+
+}
+
+.menu .blue .photo{
+    display: inline-block;
+    padding: 5px 10px;
+    margin-left: 20px;
+    margin-top: 50px;
+    
+    
+
+}
+.blue .info{
+    display: inline-block;
+
+}
+.blue .info h2{
+    display: inline-block;
+    margin-left: 100px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-decoration-line: underline;
+    
+
+}
+.blue .info h4{
+    display: inline-block;
+    margin-left: 100px;
+    padding: 15px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    
+}
+
+.black {
+   
+   
+    font-size: 50px;
+    margin-left: 450px;
+    margin-top: 100px;
+
+}
+.white .email-number h3{
+    display: inline-block;
+   
+}
